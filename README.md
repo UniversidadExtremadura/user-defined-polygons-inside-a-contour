@@ -6,8 +6,8 @@ produces a polygon or set of polygons that can be used to segment an image, allo
 
 Source code available in:
 
-- Java:   holes.java
-- Python: holes.py
+- Java:   holes-UEx.java
+- Python: holes-UEx.py
 
 Contact:
 - Media Engineering Group - University of Extremadura
